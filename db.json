@@ -71,7 +71,7 @@
   "QualityOrderLineResults":{
   "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderLineResults","value":[
     {
-      "QualityOrderNumber":"Q510070974","QualityOrderSequenceNumber":10, "kio":1
+      "QualityOrderNumber":"Q510070974","QualityOrderSequenceNumber":10, "ResultLineNumber":1
     },{
       "QualityOrderNumber":"Q510070974","QualityOrderSequenceNumber":20,"ResultLineNumber":1
     },{
