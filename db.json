@@ -16,7 +16,7 @@
       "ItemNumber": "5010487EA",
       "ItemBatchNumber": "E356-1",
       "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-03-2T00:03:16Z"
+      "FSDCreatedDateTime": "2023-01-2T00:03:16Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
@@ -33,19 +33,19 @@
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510070998",
-      "QualityTestGroupId": "5010487",
+      "QualityOrderNumber": "Q510070908",
+      "QualityTestGroupId": "No exist",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
       "ItemNumber": "item-001",
       "ItemBatchNumber": "E361-1",
       "WarehouseId": "1165WHS",
-      "FSDCreatedDateTime": "2023-02-29T00:08:18Z"
+      "FSDCreatedDateTime": "2023-03-02T02:08:18Z"
     },
     {
       "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
       "dataAreaId": "sei",
-      "QualityOrderNumber": "Q510071006",
+      "QualityOrderNumber": "Q510071009",
       "QualityTestGroupId": "Sampling Paln item-4",
       "ReferenceInventoryLotId": "",
       "RouteId": "",
