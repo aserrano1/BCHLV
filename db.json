@@ -51,7 +51,7 @@
       "RouteId": "",
       "ItemNumber": "item-4",
       "ItemBatchNumber": "E370-2",
-      "WarehouseId": "phisical",
+      "WarehouseId": "GLOBAL",
       "FSDCreatedDateTime": "2022-03-2T01:07:18Z"
     },
     {
@@ -63,7 +63,7 @@
       "RouteId": "",
       "ItemNumber": "new item",
       "ItemBatchNumber": "batch 0307",
-      "WarehouseId": "GLOBAL",
+      "WarehouseId": "phisical",
       "FSDCreatedDateTime": "2022-03-2T00:07:19Z"
     }
   ]
