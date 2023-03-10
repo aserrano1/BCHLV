@@ -5,68 +5,64 @@
   },
   "QualityOrderHeaders":{
   "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
-  "value": [
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q09032023-26",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "B09032023-26",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2023-03-3T00:03:16Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q09032023-27",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "B09032023-27",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2023-03-3T00:08:18Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q09032023-28",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "B09032023-28",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2023-03-02T02:08:18Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q09032023-29",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "B09032023-29",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2022-03-2T01:07:18Z"
-    },
-    {
-      "@odata.etag": "W/\"JzIwNTk2MDQzNTYsNTYzNzYyNDU5Nyc=\"",
-      "dataAreaId": "sei",
-      "QualityOrderNumber": "Q09032023-30",
-      "QualityTestGroupId": "calc_sp_bs",
-      "ReferenceInventoryLotId": "",
-      "RouteId": "",
-      "ItemNumber": "MSW111",
-      "ItemBatchNumber": "B09032023-30",
-      "WarehouseId": "GLOBAL",
-      "FSDCreatedDateTime": "2022-03-2T00:07:19Z"
-    }
-  ]
+  "value":[
+      {
+        "QualityTestGroupId": "calc_sp_bs",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "MSW111",
+        "QualityOrderNumber": "Q09032023-31",
+        "ItemBatchNumber": "B09032023-31",
+        "FSDCreatedDateTime": "2023-03-10T00:03:16Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
+      },
+      {
+        "QualityTestGroupId": "AJDemo",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "MSW111",
+        "QualityOrderNumber": "Q09032023-32",
+        "ItemBatchNumber": "B09032023-32",
+        "FSDCreatedDateTime": "2023-03-10T00:03:20Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
+      },
+      {
+        "QualityTestGroupId": "Active 0001",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "MSW111",
+        "QualityOrderNumber": "Q09032023-33",
+        "ItemBatchNumber": "B09032023-33",
+        "FSDCreatedDateTime": "2023-03-10T00:03:22Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
+      },
+      {
+        "QualityTestGroupId": "F6522120  10th Batch",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "MSW111",
+        "QualityOrderNumber": "Q09032023-34",
+        "ItemBatchNumber": "B09032023-34",
+        "FSDCreatedDateTime": "2023-03-10T00:03:30Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
+      },
+      {
+        "QualityTestGroupId": "Exp",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "item-001",
+        "QualityOrderNumber": "Q09032023-35",
+        "ItemBatchNumber": "B09032023-35",
+        "FSDCreatedDateTime": "2023-03-10T00:03:45Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
+      }
+    ]
+
 },
   "QualityOrderLineResults":{
   "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderLineResults","value":[
