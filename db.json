@@ -7,7 +7,7 @@
   "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
   "value":[
       {
-        "QualityTestGroupId": "F4681011",
+        "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
         "QualityOrderNumber": "Q13032023-31",
