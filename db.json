@@ -38,6 +38,17 @@
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
         "RouteId": ""
+      },
+    {
+        "QualityTestGroupId": "calc_sp_bs",
+        "WarehouseId": "GLOBAL",
+        "ItemNumber": "MSW111",
+        "QualityOrderNumber": "Q22032023-04",
+        "ItemBatchNumber": "B22032023-04",
+        "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
+        "dataAreaId": "sei",
+        "ReferenceInventoryLotId": "",
+        "RouteId": ""
       }
     ]
 },
