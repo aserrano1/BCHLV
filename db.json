@@ -10,8 +10,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q22032023-60",
-        "ItemBatchNumber": "B22032023-60",
+        "QualityOrderNumber": "Q22032023-70",
+        "ItemBatchNumber": "B22032023-70",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
@@ -21,8 +21,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q22032023-61",
-        "ItemBatchNumber": "B22032023-61",
+        "QualityOrderNumber": "Q22032023-71",
+        "ItemBatchNumber": "B22032023-71",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "1",
@@ -32,8 +32,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q22032023-62",
-        "ItemBatchNumber": "B22032023-62",
+        "QualityOrderNumber": "Q22032023-72",
+        "ItemBatchNumber": "B22032023-72",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
@@ -43,8 +43,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q22032023-63",
-        "ItemBatchNumber": "B22032023-63",
+        "QualityOrderNumber": "Q22032023-73",
+        "ItemBatchNumber": "B22032023-73",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
@@ -55,27 +55,9 @@
   "QualityOrderLineResults":{
   "@odata.context":"https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderLineResults","value":[
    {
-      "@odata.etag":"W/\"JzgwNjQ0ODQ0MCw1NjM4MTk1MzY1Jw==\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":20,"QualityTestId":"COA STATEMENT 1","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:22Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
+      "@odata.etag":"W/\"JzgwNjQ0ODQ0MCw1NjM4MTk1MzY1Jw==\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":20,"QualityTestId":"CALC_TM_Batch","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:22Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
     },{
-      "@odata.etag":"W/\"JzExOTczNDAxMDcsNTYzODE5NTM2Nic=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":21,"QualityTestId":"COA STATEMENT 2","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:22Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"Jzc5MDkwMjQ0OSw1NjM4MTk1MzY3Jw==\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":22,"QualityTestId":"COA STATEMENT 3","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:25Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzQyMTM0OTA0Miw1NjM4MTk1MzY4Jw==\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":30,"QualityTestId":"COA STATEMENT 0","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:23Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzE4NjcxNjU1ODcsNTYzODE5NTM2OSc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":40,"QualityTestId":"PURITY 99,9b","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:24Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzE4ODI5MzM5NTEsNTYzODE5NTM3MCc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":50,"QualityTestId":"WATER 100a","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:25Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzE3OTEyMjQ0NjcsNTYzODE5NTM3MSc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":60,"QualityTestId":"ALDEHYDE 30","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:26Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzE4MDA4NzI1NjAsNTYzODE5NTM3Mic=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":70,"QualityTestId":"CARBON DIOXIDE 100","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:26Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzIwMDEwODIxNTUsNTYzODE5NTM3Myc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":80,"QualityTestId":"ACID 20","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:27Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzE2NTgyODM1MjUsNTYzODE5NTM3NCc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":90,"QualityTestId":"RESIDUE 5","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:28Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
-    },{
-      "@odata.etag":"W/\"JzIwNDgzMDYwMDMsNTYzODE5NTM3NSc=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":100,"QualityTestId":"APPEARANCE 1","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:31Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
+      "@odata.etag":"W/\"JzExOTczNDAxMDcsNTYzODE5NTM2Nic=\"","dataAreaId":"chel","QualityOrderNumber":"Q700001902","QualityOrderSequenceNumber":21,"QualityTestId":"CALC_TM_BatchStage","ResultLineNumber":1,"ResultCatchWeightQuantity":0,"QualityTestVariableOutcomeId":"Pass","TestResult":"Pass","ResultValue":0,"IsTestValidationIncludingResult":"Yes","ResultInventoryQuantity":1,"FSDModifiedBy":"MKerremans","FSDCreatedBy":"A.SUsic","FSDModifiedDateTime":"2022-01-05T10:11:22Z","FSDCreatedDateTime":"2022-01-04T11:39:10Z"
     }
   ]}    
 }
