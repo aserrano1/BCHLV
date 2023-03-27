@@ -43,10 +43,9 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "
         "QualityOrderNumber": "qo-20230327-0013",
         "ItemBatchNumber": "B-20230327-00318",
-        "FSDCreatedDateTime": "2023-03-27T00:03:16Z",",
+        "FSDCreatedDateTime": "2023-03-27T00:03:16Z",
         "ItemBatchNumber": "B26032023-23",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
