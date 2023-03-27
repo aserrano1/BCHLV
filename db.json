@@ -14,7 +14,7 @@
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
-        "RouteId": ""
+        "RouteId": "123"
       } ,
        {
         "QualityTestGroupId": "calc_sp_bs",
