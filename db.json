@@ -3,41 +3,15 @@
   "profile": {
     "name": "typicode"
   },
-   "QualityOrderHeaders":{
-     "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
-     "value":[      {
-        "QualityTestGroupId": "calc_sp_bs",
-        "WarehouseId": "GLOBAL",
-        "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q26032023-01",
-        "ItemBatchNumber": "",
-        "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
-        "dataAreaId": "sei",
-        "ReferenceInventoryLotId": "",
-        "RouteId": "123"
-      } ,
-       {
-        "QualityTestGroupId": "calc_sp_bs",
-        "WarehouseId": "GLOBAL",
-        "ItemNumber": "",
-        "QualityOrderNumber": "Q26032023-02",
-        "ItemBatchNumber": "",
-        "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
-        "dataAreaId": "sei",
-        "ReferenceInventoryLotId": "",
-        "RouteId": ""
-      }
-      ]
-   },
-  "QualityOrderHeaders1":{
+  "QualityOrderHeaders":{
   "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
   "value":[
       {
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q26032023-01",
-        "ItemBatchNumber": "B26032023-01",
+        "QualityOrderNumber": "Q26032023-10",
+        "ItemBatchNumber": "B26032023-10",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
@@ -47,8 +21,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q26032023-02",
-        "ItemBatchNumber": "B26032023-02",
+        "QualityOrderNumber": "Q26032023-11",
+        "ItemBatchNumber": "B26032023-11",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "1",
@@ -58,8 +32,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q26032023-03",
-        "ItemBatchNumber": "B26032023-03",
+        "QualityOrderNumber": "Q26032023-12",
+        "ItemBatchNumber": "B26032023-12",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
@@ -69,8 +43,8 @@
         "QualityTestGroupId": "calc_sp_bs",
         "WarehouseId": "GLOBAL",
         "ItemNumber": "MSW111",
-        "QualityOrderNumber": "Q24032023-04",
-        "ItemBatchNumber": "B24032023-04",
+        "QualityOrderNumber": "Q26032023-13",
+        "ItemBatchNumber": "B26032023-13",
         "FSDCreatedDateTime": "2023-03-22T00:03:16Z",
         "dataAreaId": "sei",
         "ReferenceInventoryLotId": "",
