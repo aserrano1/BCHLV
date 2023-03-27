@@ -3,7 +3,10 @@
   "profile": {
     "name": "typicode"
   },
-  "QualityOrderHeaders":{
+   "QualityOrderHeaders":{
+  "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders"
+   },
+  "QualityOrderHeaders1":{
   "@odata.context": "https://balchem-dev29a9aeada8661ab013devaos.axcloud.dynamics.com/data/$metadata#QualityOrderHeaders",
   "value":[
       {
